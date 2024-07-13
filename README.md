@@ -4,7 +4,7 @@ This is the boilerplate for the Exercise Tracker project. Instructions for build
 
 Here is a preview of the instructions:
 
-## Your responses should have the following structures.
+## Your responses should have the following structures:
 
 ### Exercise:
 
