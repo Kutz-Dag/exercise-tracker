@@ -44,7 +44,7 @@ This is the preview of the input and output of the response:
 
 ### Preview of code render:
 
-![Exercise Tracker](https://github.com/user-attachments/assets/188e6ca4-9e9d-40a9-9c4d-2a945b26126b)
+[![Exercise Tracker](https://github.com/user-attachments/assets/188e6ca4-9e9d-40a9-9c4d-2a945b26126b)](https://exercise-tracker.freecodecamp.rocks/)
 
 
 ### User stories/tests to pass:
