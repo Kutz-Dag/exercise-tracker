@@ -1,8 +1,8 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project.
-
 ### Description
+
+This project was created using ... // update
 
 This is the preview of the input and output of the response:
 
